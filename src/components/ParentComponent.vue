@@ -9,10 +9,10 @@
 </script>
 <template>
 	<div
-		class="border border-gray-500 p-20 flex flex-col gap-5 justify-center items-center"
+		class="border border-gray-500 p-5 lg:p-20 flex flex-col gap-5 justify-center items-center"
 	>
 		<h1 class="text-3xl font-bold">Parent Component</h1>
-		<h2>
+		<h2 class="flex flex-col lg:block">
 			<span class="text-sky-500 font-semibold"
 				>Message from Child Component by Emit:
 			</span>

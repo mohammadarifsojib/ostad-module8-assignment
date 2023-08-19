@@ -3,7 +3,7 @@
 </script>
 
 <template>
-	<div class="container mx-auto px-32 py-20">
+	<div class="container mx-auto p-10 lg:px-32 lg:py-20">
 		<ParentComponent />
 	</div>
 </template>
